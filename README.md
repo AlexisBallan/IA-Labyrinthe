@@ -2,9 +2,12 @@
 
 ## Présentation du projet en vidéo : https://youtu.be/1GmZ7sGdai4
 
+![Capture d’écran 2023-05-04 183107](https://user-images.githubusercontent.com/54318416/236343757-c4fee492-8ff7-4ca8-b340-215ae0519bb1.png)
+
 # Description
 
 Je vous présente mon nouveau projet qui porte sur l'intelligence artificielle. Mon objectif était d'explorer les réseaux de neurones et de les intégrer à un algorithme génétique pour obtenir un produit fonctionnel.
+
 
 Le fonctionnement du projet est le suivant : à chaque génération, 40 agents apparaissent et peuvent se déplacer dans la direction de leur choix en utilisant les 5 rayons équipés sur eux. Les rayons permettent de détecter les murs et d'éviter les collisions. Seuls les 10 meilleurs agents de chaque génération sont sélectionnés pour la génération suivante.
 
