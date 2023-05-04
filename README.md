@@ -1,5 +1,7 @@
 # IA-Labyrinthe
 
+## Présentation du projet en vidéo : https://youtu.be/1GmZ7sGdai4
+
 # Description
 
 Je vous présente mon nouveau projet qui porte sur l'intelligence artificielle. Mon objectif était d'explorer les réseaux de neurones et de les intégrer à un algorithme génétique pour obtenir un produit fonctionnel.
